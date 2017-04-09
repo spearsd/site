@@ -1,0 +1,12 @@
+<h1 class="entry-title">
+    <a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a>
+</h1>
+{{ post.date }}
+{% if post.title %}
+  <h1 class="entry-title">
+    {{ post.title }}
+  </h1>    
+  {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+  <p class="post-meta">{{ post.date | date: date_format }}</p>
+{% endif %}
+<div class="entry-content">{{ content }}</div>

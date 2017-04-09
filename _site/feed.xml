@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-08T23:00:34-04:00</updated><id>http://localhost:4000/</id><title type="html">DustinSpears.com</title><subtitle>Code snippets and scripts.</subtitle><entry><title type="html">Launch Site to multiple PCs using PowerShell</title><link href="http://localhost:4000/2017/04/08/launch-site-to-multiple-pcs-using-powershell.html" rel="alternate" type="text/html" title="Launch Site to multiple PCs using PowerShell" /><published>2017-04-08T10:46:13-04:00</published><updated>2017-04-08T10:46:13-04:00</updated><id>http://localhost:4000/2017/04/08/launch-site-to-multiple-pcs-using-powershell</id><content type="html" xml:base="http://localhost:4000/2017/04/08/launch-site-to-multiple-pcs-using-powershell.html">&lt;p&gt;Using a combination of PsExec and PowerShell, I created a script to launch mutiple browsers on different laptops. This was a short project I did for a computer lab teacher in my children’s elementary school.&lt;/p&gt;
+
+&lt;p&gt;The script uses 3 main components to achieve this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which can be downloaded &lt;a href=&quot;https://technet.microsoft.com/en-us/sysinternals/bb897553.aspx&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;PowerShell&lt;/li&gt;
+  &lt;li&gt;Text file with list of PCs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lets get to the good stuff:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;no&quot;&gt;Code&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;be&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;posted&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;here&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><summary type="html">Using a combination of PsExec and PowerShell, I created a script to launch mutiple browsers on different laptops. This was a short project I did for a computer lab teacher in my children’s elementary school.</summary></entry></feed>

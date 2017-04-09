@@ -1,0 +1,15 @@
+---
+title: DustinSpears.com
+email: dustin.spears@live.com
+description: 'Code snippets and scripts.'
+baseurl: ''
+url: ''
+twitter_username: jekyllrb
+github_username: jekyll
+markdown: kramdown
+theme: jekyll-theme-slate
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
